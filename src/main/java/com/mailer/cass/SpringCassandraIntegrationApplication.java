@@ -1,4 +1,4 @@
-package net.techtter.cassandra.springcassandraintegration;
+package com.mailer.cass;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

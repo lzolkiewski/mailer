@@ -1,4 +1,4 @@
-package net.techtter.cassandra.springcassandraintegration.config;
+package com.mailer.cass.config;
 
 import com.datastax.driver.core.exceptions.NoHostAvailableException;
 import com.datastax.driver.core.exceptions.TransportException;

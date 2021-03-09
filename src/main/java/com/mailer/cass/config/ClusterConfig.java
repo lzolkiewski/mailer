@@ -1,4 +1,4 @@
-package net.techtter.cassandra.springcassandraintegration.config;
+package com.mailer.cass.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
